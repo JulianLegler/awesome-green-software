@@ -101,13 +101,13 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [carbonintensity-api](https://github.com/jnioche/carbonintensity-api) Rust: Library and client to retrieve data from the [UK National Grid Carbon Intensity API](https://api.carbonintensity.org.uk/).
 - [CAST Highlight](https://learn.castsoftware.com/green-software/) Automatically analyze application source code to identify green deficiencies and improve green impact.
 - [codecarbon.io](http://codecarbon.io/) Python : Track and reduce CO2 emissions from your computing
-- [Creendengo](https://github.com/green-code-initiative/creedengo-rules-specifications) A SonarQube plugin for PHP, Python, Java, C# and JavaScript, providing static code analyzers to highlight code structures that may have a negative ecological impact.
-- [Energy-consumption-measuring-toolkit](https://github.com/Accenture/energy-consumption-measuring-toolkit) Energy Consumption Measuring Toolkit for Python Applications
-- [JoularJX](https://gitlab.com/joular/joularjx) Java: Software power monitoring at the source code level in real time.
-- [Kernel Tuner](https://github.com/kerneltuner/kernel_tuner) an auto-tuner capable of 
+- [energy-consumption-measuring-toolkit](https://github.com/Accenture/energy-consumption-measuring-toolkit) Energy Consumption Measuring Toolkit for Python Applications
+- [JoularJX](https://gitlab.com/joular/joularjx) Java: Software power monitoring at the source code level in real-time.
+- [Kernel Tuner](https://github.com/kerneltuner/kernel_tuner) an auto-tuner capable of [optimizing GPU code for energy efficiency](https://github.com/KernelTuner/kernel_tuner/blob/master/examples/cuda/going_green_performance_model.py).
 - [oaklean.io](https://oaklean.io/) Visualize and optimize the energy consumption of your JavaScript/TypeScript applications. Using a VSCode extension and integration with test frameworks, the system identifies energy-intensive code sections and suggests eco-friendly alternatives.
 - [optimizing GPU code for energy efficiency](https://github.com/KernelTuner/kernel_tuner/blob/master/examples/cuda/going_green_performance_model.py).
 - [Tracarbon](https://github.com/fvaleye/tracarbon) Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location
+- [Creendengo](https://github.com/green-code-initiative/creedengo-rules-specifications) A SonarQube plugin for PHP, Python, Java, C# and JavaScript, providing static code analyzers to highlight code structures that may have a negative ecological impact.
 
 ### General purpose
 
@@ -211,7 +211,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [TimeForThePlanet](https://www.time-planet.com/fr)
 
 ## Courses
-
+- [Green Lab at Vrije Universiteit Amsterdam](https://arxiv.org/abs/2407.05689)
 - [Carbon Aware Computing for GenAI Developers - deeplearning.ai](https://www.deeplearning.ai/short-courses/carbon-aware-computing-for-genai-developers/)
 - [Curso de Desarrollo de software medioambientalmente sostenible (Green Software) Spanish](https://www.adrformacion.com/cursos/greensoft/greensoft.html)
 - [Green Lab at Vrije Universiteit Amsterdam](https://arxiv.org/abs/2407.05689)
@@ -298,6 +298,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [Green-aware Mobile Edge Computing for IoT: Challenges, Solutions, and Future Directions](https://arxiv.org/abs/2009.03598)
 - [Measuring IT Carbon Footprint: What is the Current Status Actually?](https://arxiv.org/abs/2306.10049)
 - [Quantifying the Carbon Emissions of Computation](https://arxiv.org/ftp/arxiv/papers/2007/2007.07610.pdf)
+- [Software Development Lifecycle for Energy Efficiency: Techniques and Tools](https://dl.acm.org/doi/abs/10.1145/3337773)
 
 #### Crypto
 
@@ -340,7 +341,11 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [Google Apps: Energy Efficiency in the Cloud](https://static.googleusercontent.com/media/www.google.com/en//green/pdf/google-apps.pdf)
 - [Green and Sustainability in Software Development Lifecycle Process](https://www.intechopen.com/chapters/69865)
 - [GreenC5: An Adaptive, Energy-Aware Collection for Green Software Development](https://digitalcommons.du.edu/cgi/viewcontent.cgi?article=2122&context=etd)
-- [Software development methodology in a Green IT environment](https://tel.archives-ouvertes.fr/tel-01724069/document)
+
+#### Testing of Green Software
+
+- [Vessim: A Testbed for Carbon-Aware Applications and Systems.](https://arxiv.org/pdf/2306.09774.pdf)
+- [Software-in-the-Loop Simulation for Developing and Testing Carbon-Aware Applications.](https://doi.org/10.1002/spe.3275)
 
 #### Testing of Green Software
 

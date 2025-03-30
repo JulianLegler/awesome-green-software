@@ -79,13 +79,13 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [Microsoft Emissions Impact Dashboard](https://www.microsoft.com/en-us/sustainability/emissions-impact-dashboard)
 - [Azure carbon optimization](https://learn.microsoft.com/en-us/azure/carbon-optimization/overview)
 - [Emissions savings estimator for Microsoft Cloud](https://gw.us-il301.gateway.prod.island.powerapps.com/customerenrollmentservice/estimator/index.html)
-- Blog : [Well Architected Framework for Sustainable Workloads](https://learn.microsoft.com/en-us/azure/well-architected/sustainability/)
+- [Well Architected Framework for Sustainable Workloads](https://learn.microsoft.com/en-us/azure/well-architected/sustainability/)
 
 #### Google
 
 - [Carbon Footprint](https://cloud.google.com/carbon-footprint)
 - [Cloud Jewels](https://github.com/etsy/cloud-jewels)
-  Blog: [Cloud Jewels: Estimating kWh in the Cloud](https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/)
+- [Cloud Jewels: Estimating kWh in the Cloud](https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/)
 
 #### OVHcloud
   
@@ -155,10 +155,12 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 
 - [Creedengo mobile](https://github.com/green-code-initiative/ecocode-mobile) A SonarQube plugin to highlight code structures that may have a negative ecological impact.
 - [PowDroid](https://gitlab.com/powdroid/powdroid-cli) A lightweight CLI tool for measuring energy consumption at runtime (based on batterystats)
+- [Greenspector](https://greenspector.com/) : a set of tools to run measurements on real devices and assess the environmental impacts.
 
 ### iOS
 
 - [Creedengo iOS](https://github.com/green-code-initiative/creedengo-ios) A SonarQube plugin to highlight code structures that may have a negative ecological impact.
+- [Greenspector](https://greenspector.com/) : a set of tools to run measurements on real devices and assess the environmental impacts.
 
 #### Linux
 
@@ -185,7 +187,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [Fruggr](https://www.fruggr.io) Evaluate the environmental and social efficiency of web and mobile applications.
 - [Globemallow.io](https://globemallow.io/) Sustainable web development + design best practice reports. Analytics & Ad Blocker reduces the energy required for page load and protects your privacy.
 - [GreenFrame.io](https://greenframe.io) Calculate Carbon Footprint of website.
-- [GreenSpector](http://mobile-efficiency-index.com/en/)
+- [Greenspector](https://greenspector.com/) : a set of tools to run measurements on real devices and assess the environmental impacts.
 - [Kastor.green](https://kastor.green/) Evaluate the design compliance of websites and web applications.
 - [Website Carbon Calculator](https://www.websitecarbon.com/) An online website carbon estimator.
 - [WeDeex - Chrome](https://chrome.google.com/webstore/detail/wedeex/ojlagggckhpedblhemgjhecbggnibale)

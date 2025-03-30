@@ -365,6 +365,7 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The parties expressly disclaim any war
 - [An Empirical Study on the Performance and Energy Costs of Ads and Analytics in Mobile Web Apps](http://www.ivanomalavolta.com/files/papers/IST_2024.pdf)
 - [CarbonTag: A browser-based method for approximating energy consumption of online ads](https://arxiv.org/abs/2211.00071)
 - [Quantifying Carbon Emissions due to Online Third-Party Tracking](https://arxiv.org/abs/2304.00927)
+- [Energy Patterns for Web: An Exploratory Study](https://doi.org/10.1145/3639475.3640110)
 
 ## Contribute
 
